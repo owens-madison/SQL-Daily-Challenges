@@ -1,4 +1,5 @@
-/* Leetcode Excercise 1757
+/* LeetCode Problem 1757
+Table: Products
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+

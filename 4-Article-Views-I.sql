@@ -1,4 +1,4 @@
-/* Leetcode Exercise 1148
+/* LeetCode Problem 1148
 Table: Views
 
 +---------------+---------+

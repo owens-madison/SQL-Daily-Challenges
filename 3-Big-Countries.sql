@@ -1,4 +1,4 @@
-/* Leetcode Exercise 595
+/* LeetCode Problem 595
 Table: World
 
 +-------------+---------+

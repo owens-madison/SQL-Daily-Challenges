@@ -1,4 +1,4 @@
-/* Leetcode Exercise 584
+/* LeetCode Problem 584
 Table: Customer
 
 +-------------+---------+
