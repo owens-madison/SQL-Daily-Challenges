@@ -1,4 +1,4 @@
-/* Excercise 1
+/* Leetcode Excercise 1757
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -42,7 +42,7 @@ Output:
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 */
 
-/* Response */
+/* Answer */
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' 
