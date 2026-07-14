@@ -73,4 +73,4 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 SELECT Product.product_name, Sales.year, Sales.price
 FROM Product
 JOIN Sales
-ON Product.product_id = Sales.product_id
+ON Product.product_id = Sales.product_id;
