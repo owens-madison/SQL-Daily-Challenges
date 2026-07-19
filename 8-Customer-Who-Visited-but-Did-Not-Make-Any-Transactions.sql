@@ -1,4 +1,4 @@
-/* Leetcode Problem 1581
+/* LeetCode Problem 1581
 Table: Visits
 
 +-------------+---------+
